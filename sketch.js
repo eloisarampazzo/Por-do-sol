@@ -1,4 +1,4 @@
-et posicaoVertical;
+let posicaoVertical;
 
 function setup() {
   createCanvas(500, 500);
